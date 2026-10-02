@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/Chubyilo92/JJCutecouple/main/videos/<filename>
 That's the URL to pass as Metricool's `media` field.
 
 ## Current plan (1 Oct 2026)
-2 videos/day (10:00 and 18:00) for JJ puppies, Metricool brand 7128333. The twice-weekly scheduled task (Sun and Wed 10:12 UK, 7 videos per run) builds and schedules them. Scheduled to 11 Oct so far. Master plan: github.com/Chubyilo92/Coupleinsocial README.md.
+2 videos/day (10:00 and 18:00) for JJ puppies, Metricool brand 7128333. The twice-weekly scheduled task (Sun and Wed 10:12 UK, 7 videos per run) builds and schedules them. Scheduled to Fri 16 Oct 10:00 (organic). Dialogue ads in the 18:00 slot on Mon 5, Wed 7, Fri 9 Oct; kindness ad 21 Oct 20:00. Master plan: github.com/Chubyilo92/Coupleinsocial README.md.
